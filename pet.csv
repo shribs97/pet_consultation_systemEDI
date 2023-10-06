@@ -1,0 +1,42 @@
+Species,Age,Change in behaviour pattern,Description of behavior,Aggression,Anxiety,Compulsivebehaviour,Elimination,Disease
+Dog,3,Yes,"Reluctance to move, Reduced activity",No,Yes,No,Yes,Diabetes
+Dog,4,No,Reduced activity,Yes,No,No,No,Allergies
+Dog,4,Yes,"Stiffness, Sneezing",Yes,No,No,No,urinary infection
+Dog,9,No,"Reluctance to move, Reduced activity",No,No,No,No,arthiritis
+Dog,3,Yes,"Reluctance to move, Reduced activity, Sneezing",Yes,No,No,No,Diabetes
+Cat,19,Yes,Vomiting,Yes,Yes,Yes,Yes,Allergies
+Dog,19,Yes,"Limping, Stiffness, Reluctance to move, Reduced activity, Vomiting, Sneezing",Yes,Yes,Yes,Yes,urinary infection
+Dog,2,No,Vomiting,Yes,No,No,No,arthiritis
+Dog,1,No,Sneezing,No,No,No,No,no disease
+Dog,2,Yes,Vomiting,No,No,No,No,no disease
+Cat,2,Yes,Reduced activity,No,No,No,No,no Disease
+Dog,,Yes,Stiffness,No,No,No,No,arthiritis
+Dog,1,No,"Vomiting, Sneezing",No,No,Yes,No,Diabetes
+Dog,10,No,"Vomiting, Sneezing",No,Yes,Yes,Yes,Allergies
+Dog,1,Yes,Stiffness,Yes,No,No,No,urinary infection
+Cat,5,Yes,"Reduced activity, Vomiting",Yes,Yes,Yes,No,arthiritis
+Dog,1,No,Reduced activity,Yes,Yes,No,No,Diabetes
+Dog,6,Yes,"Limping, Stiffness, Reluctance to move, Reduced activity, Vomiting, Sneezing",Yes,Yes,Yes,Yes,Allergies
+Dog,7,No,Reduced activity,No,No,No,Yes,urinary infection
+Dog,2,Yes,Sneezing,Yes,No,No,Yes,arthiritis
+Cat,7,Yes,Reduced activity,No,No,No,No,Diabetes
+Cat,2,No,Sneezing,No,No,No,No,Allergies
+Dog,1,Yes,Reduced activity,Yes,No,No,No,urinary infection
+Cat,5,Yes,Reluctance to move,No,No,No,Yes,arthiritis
+Dog,6,Yes,"Limping, Stiffness, Vomiting",Yes,Yes,Yes,Yes,Diabetes
+Dog,3,No,"Stiffness, Reduced activity, Sneezing",No,Yes,Yes,No,Allergies
+Cat,3,No,Reduced activity,No,No,Yes,No,urinary infection
+Cat,5,Yes,Reduced activity,No,Yes,Yes,Yes,arthiritis
+Cat,5,Yes,Limping,Yes,Yes,Yes,Yes,Diabetes
+Dog,7,No,"Stiffness, Reluctance to move",Yes,No,No,Yes,Allergies
+Dog,9,Yes,"Reduced activity, Vomiting",Yes,No,Yes,Yes,urinary infection
+Dog,7,Yes,Stiffness,Yes,No,Yes,No,arthiritis
+Dog,7,No,"Reluctance to move, Vomiting",Yes,Yes,Yes,Yes,Diabetes
+Cat,8,Yes,"Reluctance to move, Reduced activity",No,No,Yes,Yes,Allergies
+Cat,3,Yes,"Stiffness, Sneezing",Yes,Yes,Yes,Yes,urinary infection
+Cat,4,No,"Limping, Vomiting",Yes,Yes,Yes,No,arthiritis
+Cat,4,Yes,Limping,No,No,No,Yes,Diabetes
+Cat,6,No,"Stiffness, Vomiting",Yes,Yes,Yes,No,Allergies
+Dog,2,Yes,"Stiffness, Reduced activity, Sneezing",Yes,Yes,Yes,Yes,urinary infection
+Cat,5,No,"Stiffness, Reluctance to move",No,Yes,Yes,Yes,arthiritis
+Dog,7,Yes,Reduced activity,No,Yes,Yes,No,Diabetes
